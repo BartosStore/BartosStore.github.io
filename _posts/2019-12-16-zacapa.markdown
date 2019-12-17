@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Zacapa"
+tags: [rum]
+---
+
+Úvod...
+
+Foto
+
+<!-- more -->
+
+### Hanaboso
+
+Intrigued by this rare example of transparency into how professional and advanced horse racing tournament players approached this format, I decided to see if I could extricate the data within to conduct some analysis for educational and entertainment purposes.
