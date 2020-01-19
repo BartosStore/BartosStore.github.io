@@ -6,7 +6,7 @@ logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'author-avatar.png'
-  greetings: "I'm Miroslav Bartoš. I work as a developer and this site is especially my public CV."
+  greetings: "Jsem Miroslav Bartoš. Pracuji jako vývojář a toto je především moje veřejné CV."
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 disqus: 'miroslavbartos'
@@ -28,15 +28,15 @@ navigation:
    url: /
  - text: CV
    url: /tag/cv/
- - text: Development
+ - text: Vývoj
    url: /tag/development/   
- - text: Books
+ - text: Knihy
    url: /tag/book/
- - text: Cars
+ - text: Auta
    url: /tag/car/   
  - text: Rum
    url: /tag/rum/
- - text: Contact
+ - text: Kontakt
    url: /contact/
 
 # Required Plugins
