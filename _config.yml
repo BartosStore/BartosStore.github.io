@@ -8,7 +8,7 @@ author:
   image: 'author-avatar.png'
   greetings: "Jsem Miroslav Bartoš. Pracuji jako vývojář a toto je především moje veřejné CV."
 favicon: 'assets/images/favicon.ico'
-baseurl: 
+baseurl: 'https://kind-payne-29d67e.netlify.com/' 
 disqus: 'miroslavbartos'
 
 # Contact form setings
