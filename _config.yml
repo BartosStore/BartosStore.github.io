@@ -40,12 +40,12 @@ navigation:
    url: /contact/
 
 # Required Plugins
-plugins_dir:
-  - jekyll-paginate
-  - jekyll-tagsgenerator
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-gist
+plugins:
+- jekyll-paginate
+- jekyll-tagsgenerator
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-gist
 
 # Pagination
 paginate: 5
