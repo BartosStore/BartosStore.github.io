@@ -8,17 +8,17 @@ Zde je krátký přehled mých pracovních zkušeností. Pro více informací v�
 
 Celý **životopis v podobě PDF** je dostupný [zde](data/bartos_cv.pdf).
 
-| Období            | Zaměstnavatel / Pozice        | Nabité zkušenosti                 |
+| Období            | Zaměstnavatel / Pozice        | Nabyté zkušenosti                 |
 | -----------------:|:-----------------------------:| ---------------------------------:|
-| 1/2020-?          | **HANABOSO s.r.o.**           | Flutter?                          |
-|                   | Chládkova 898/2, Žabovřesky   |                                   |
-|                   | 616 00 Brno                   |                                   |
+| 1/2020-?          | **HANABOSO s.r.o.**           | Mobilní/webové aplikace           |
+|                   | Chládkova 898/2, Žabovřesky   | Flutter - multiplatformní vývoj pro Android i iOS |
+|                   | 616 00 Brno                   | Dart, React.js                    |
 |                   | Programátor                   |                                   |
 | 10/2017-11/2019   | **Quadient s.r.o.**           | Člen scrum týmu                   |
 |                   | Na Brně 1972, 50006 HK        | Škálovatelný tisk dokumentů na on-premise/cloudu |
 |                   | Software Developer            | Frontend Developer                |
 |                   |                               | AWS entusiasta                    |
-|                   |                               | Garant dockerizace                |
+|                   |                               | Plánování a rozpad dockerizace    |
 | 3/2015-9/2017     | **ApSo s.r.o.**               | Hlasovací app v React.js/Flux     |
 |                   | V Lipkách 894, 500 02 HK      | CRM systém pro platformu Android  |
 |                   | Programátor, Analytik         | ERP systém v Progress OpenEdge    |
