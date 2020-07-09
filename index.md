@@ -1,10 +1,15 @@
 ## Experience
 
+Passionate developer with (not strict) specialization in Javascript UI libraries and mobile apps.
+
+Person who knows culture in startup, small and big company and tried different planning strategies.
+
 ### [Hanaboso s.r.o.](https://hanaboso.com/)
 
 12/2019 - present
 
 Position: Software Developer
+
 Company class: Startup
 
 * Agile development/Scrum
@@ -18,6 +23,8 @@ Company class: Startup
 
 Position: Software Developer
 
+Company class: Multinational corporation
+
 * Agile development/Elements from Scrum/Kanban/XP
 * Development of scalable automation tool Scaler for high-volume docs production in on-premise and cloud environments
 * Specialization as frontend developer
@@ -29,6 +36,8 @@ Position: Software Developer
 3/2015 - 9/2017
 
 Position: Software Developer
+
+Company class: Small company
 
 * Single-page web app in Reactjs/Flux
 * CRM system on Android platform in Java/Kotlin
