@@ -1,8 +1,8 @@
 ## Experience
 
-Passionate developer with (not strict) specialization in Javascript UI libraries and mobile apps.
+A passionate developer with (not strict) specialization in Javascript UI libraries and mobile apps.
 
-Person who knows culture in startup, small and big company and tried different planning strategies.
+A person who knows culture in startup, small and big company and tried different planning strategies.
 
 ### [Hanaboso s.r.o.](https://hanaboso.com/) 12/2019 - present
 
@@ -10,9 +10,9 @@ Position: Software Developer
 
 Company class: Startup
 
-* Agile development/Scrum
+* Agile development; scrum
 * Automation tool Pipes (own product)
-* Proof of concept Flutter in Flutter technology, CI
+* Proof of concept in Flutter technology, CI
 * Angular v9, Spring Boot
 
 ### [Quadient s.r.o.](https://www.quadient.com/) 10/2017 - 11/2019
@@ -21,7 +21,7 @@ Position: Software Developer
 
 Company class: Multinational corporation
 
-* Agile development/Elements from Scrum/Kanban/XP
+* Agile development; elements from Scrum/Kanban/XP
 * Development of scalable automation tool Scaler for high-volume docs production in on-premise and cloud environments
 * Specialization as frontend developer
 * AWS enthusiast
