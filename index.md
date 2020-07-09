@@ -4,7 +4,7 @@ Passionate developer with (not strict) specialization in Javascript UI libraries
 
 Person who knows culture in startup, small and big company and tried different planning strategies.
 
-### [Hanaboso s.r.o.](https://hanaboso.com/) _[12/2019 - present]_
+### [Hanaboso s.r.o.](https://hanaboso.com/) 12/2019 - present
 
 Position: Software Developer
 
@@ -27,7 +27,7 @@ Company class: Multinational corporation
 * AWS enthusiast
 * Responsibility for story creation and planning
 
-### [ApSo s.r.o.](https://www.apso.cz/) _3/2015 - 9/2017_
+### [ApSo s.r.o.](https://www.apso.cz/) 3/2015 - 9/2017
 
 Position: Software Developer
 
