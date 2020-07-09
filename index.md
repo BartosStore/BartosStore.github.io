@@ -1,8 +1,8 @@
 ## Experience
 
-### [ApSo s.r.o.](https://www.apso.cz/)
+### [Hanaboso s.r.o.](https://hanaboso.com/)
 
-3/2015 - 9/2017
+12/2019 - present
 
 Position: Software Developer
 
@@ -12,9 +12,9 @@ Position: Software Developer
 
 Position: Software Developer
 
-### [Hanaboso s.r.o.](https://hanaboso.com/)
+### [ApSo s.r.o.](https://www.apso.cz/)
 
-12/2019 - present
+3/2015 - 9/2017
 
 Position: Software Developer
 
