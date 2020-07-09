@@ -4,7 +4,7 @@ Passionate developer with (not strict) specialization in Javascript UI libraries
 
 Person who knows culture in startup, small and big company and tried different planning strategies.
 
-### [Hanaboso s.r.o.](https://hanaboso.com/) [12/2019 - present]
+### [Hanaboso s.r.o.](https://hanaboso.com/) _[12/2019 - present]_
 
 Position: Software Developer
 
@@ -15,9 +15,7 @@ Company class: Startup
 * Proof of concept Flutter in Flutter technology, CI
 * Angular v9, Spring Boot
 
-### [Quadient s.r.o.](https://www.quadient.com/)
-
-10/2017 - 11/2019
+### [Quadient s.r.o.](https://www.quadient.com/) 10/2017 - 11/2019
 
 Position: Software Developer
 
@@ -29,9 +27,7 @@ Company class: Multinational corporation
 * AWS enthusiast
 * Responsibility for story creation and planning
 
-### [ApSo s.r.o.](https://www.apso.cz/)
-
-3/2015 - 9/2017
+### [ApSo s.r.o.](https://www.apso.cz/) _3/2015 - 9/2017_
 
 Position: Software Developer
 
