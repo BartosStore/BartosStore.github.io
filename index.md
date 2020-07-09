@@ -4,9 +4,7 @@ Passionate developer with (not strict) specialization in Javascript UI libraries
 
 Person who knows culture in startup, small and big company and tried different planning strategies.
 
-### [Hanaboso s.r.o.](https://hanaboso.com/)
-
-12/2019 - present
+### [Hanaboso s.r.o.](https://hanaboso.com/) [12/2019 - present]
 
 Position: Software Developer
 
