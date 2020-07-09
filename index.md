@@ -37,6 +37,20 @@ Company class: Small company
 * CRM system on Android platform in Java/Kotlin
 * ERP system in Progress OpenEdge
 
+## Education
+
+### Univerzita Hradec Králové
+
+A master degree in the Applied Informatics
+
+### City University of Hong Kong
+
+A summer camp
+
+### VOŠ a SPŠ Jičín
+
+A graduation in the Electronic Computer Systems
+
 ## Interests
  - programming
  - cars & motorcycles
