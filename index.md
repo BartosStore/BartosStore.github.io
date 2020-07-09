@@ -7,10 +7,10 @@
 Position: Software Developer
 Company class: Startup
 
-Agile development/Scrum
-Automation tool Pipes (own product)
-Proof of concept Flutter in Flutter technology, CI
-Angular v9, Spring Boot
+* Agile development/Scrum
+* Automation tool Pipes (own product)
+* Proof of concept Flutter in Flutter technology, CI
+* Angular v9, Spring Boot
 
 ### [Quadient s.r.o.](https://www.quadient.com/)
 
@@ -18,12 +18,11 @@ Angular v9, Spring Boot
 
 Position: Software Developer
 
-Agile development/Elements from Scrum/Kanban/XP
-Development of scalable automation tool Scaler for high-volume docs production 
-in on-premise and cloud environments
-Specialization as frontend developer
-AWS enthusiast
-Responsibility for story creation and planning
+* Agile development/Elements from Scrum/Kanban/XP
+* Development of scalable automation tool Scaler for high-volume docs production in on-premise and cloud environments
+* Specialization as frontend developer
+* AWS enthusiast
+* Responsibility for story creation and planning
 
 ### [ApSo s.r.o.](https://www.apso.cz/)
 
@@ -31,9 +30,9 @@ Responsibility for story creation and planning
 
 Position: Software Developer
 
-Single-page web app in Reactjs/Flux
-CRM system on Android platform in Java/Kotlin
-ERP system in Progress OpenEdge
+* Single-page web app in Reactjs/Flux
+* CRM system on Android platform in Java/Kotlin
+* ERP system in Progress OpenEdge
 
 ## Interests
  - programming
